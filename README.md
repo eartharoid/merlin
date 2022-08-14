@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href=".">
-		<img src="https://static.eartharoid.me/k/22/08/14141014.png" width="200" height="auto">
+		<img src="https://img.eartharoid.me/insecure/rs:auto:200/plain/s3://eartharoid/merlin/logo.png" width="200" height="auto">
 	</a>
 	<h1>Merlin</h1>
 	<p>
